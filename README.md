@@ -1,5 +1,5 @@
 
-# EasyMiner – Your No-Fuss Crypto Miner
+# EasyMiner – Your No-Fuss Crypto Miner ⛏️
 
 EasyMiner takes the complexity out of cryptocurrency mining, giving you a clean, straightforward way to mine crypto without hassle. Forget long guides and confusing settings—just mine.
 
@@ -32,7 +32,7 @@ chmod +x easyminer.sh
 
 You're ready to mine!
 
-## Downloads
+## 📥 Downloads
 
 Official releases and downloads will be available here:
 
@@ -40,9 +40,9 @@ Official releases and downloads will be available here:
 
 | Platform | Download |
 |----------|----------|
-| Windows  | Coming Soon |
-| Linux    | Coming Soon |
-| macOS    | Coming Soon |
+| 🪟 Windows  | Coming Soon |
+| 🐧 Linux    | Coming Soon |
+| 🍎 macOS    | Coming Soon |
 
 ## Join & Improve
 
